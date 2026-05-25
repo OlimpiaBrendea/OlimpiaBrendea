@@ -55,6 +55,6 @@ I strongly believe in innovation, collaboration, and technology as tools to impr
 
 ## 📫 Connect With Me
 - LinkedIn: [olimpia-brendea-26089bb1](https://www.linkedin.com/in/olimpia-brendea-26089bb1/)
-- GitHub: *(add your GitHub username here)*
+- GitHub: OlimpiaBrendea
 
 ---
