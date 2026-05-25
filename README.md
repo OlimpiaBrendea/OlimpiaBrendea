@@ -4,6 +4,8 @@
 Passionate technology professional with experience in **Intelligent Transport Systems (ITS)** and digital innovation.
 I work in environments focused on **software engineering**, **system integration**, and **innovation for sustainable mobility**, contributing to projects that improve infrastructure management, traffic monitoring, and smart road ecosystems.
 
+![profile img] (/assets/img/Profile.png)
+
 
 ---
 
